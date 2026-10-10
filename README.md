@@ -1,20 +1,20 @@
-<a href="https://amanjha7.github.io"><img src="assets/hero.svg" width="100%" alt="45+ integrations. 5 CRMs. One engineer who doesn't stop. Aman Jha, full stack engineer at Profunnel."></a>
+<a href="https://amanjhacodes55.github.io"><img src="assets/hero.svg" width="100%" alt="45+ integrations. 5 CRMs. One engineer who doesn't stop. Aman Jha, full stack engineer at Profunnel."></a>
 
 <p align="center">
-  <a href="https://amanjha7.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-amanjha7.github.io-d4ff3a?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio"></a>
+  <a href="https://amanjhacodes55.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-amanjhacodes55.github.io-d4ff3a?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/aman-jha-07334a254/"><img src="https://img.shields.io/badge/LINKEDIN-connect-f5f5f2?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=0a0a0a" alt="LinkedIn"></a>
-  <a href="https://amanjha7.github.io/assets/Aman_Jha_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-pdf-f5f5f2?style=for-the-badge&labelColor=0a0a0a" alt="Resume"></a>
+  <a href="https://amanjhacodes55.github.io/assets/Aman_Jha_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-pdf-f5f5f2?style=for-the-badge&labelColor=0a0a0a" alt="Resume"></a>
   <a href="mailto:amanjhavdjs12tha@gmail.com"><img src="https://img.shields.io/badge/HIRE_ME-email-d4ff3a?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=0a0a0a" alt="Email"></a>
 </p>
 
 <br>
 
-<a href="https://amanjha7.github.io/#work"><img src="assets/card1.svg" width="49%" alt="A phone inside five CRMs"></a>
-<a href="https://amanjha7.github.io/#work"><img src="assets/card2.svg" width="49%" alt="One OAuth backend for all"></a>
-<a href="https://amanjha7.github.io/#work"><img src="assets/card3.svg" width="49%" alt="45+ integrations in production"></a>
-<a href="https://amanjha7.github.io/#work"><img src="assets/card4.svg" width="49%" alt="Session replay from scratch"></a>
+<a href="https://amanjhacodes55.github.io/#work"><img src="assets/card1.svg" width="49%" alt="A phone inside five CRMs"></a>
+<a href="https://amanjhacodes55.github.io/#work"><img src="assets/card2.svg" width="49%" alt="One OAuth backend for all"></a>
+<a href="https://amanjhacodes55.github.io/#work"><img src="assets/card3.svg" width="49%" alt="45+ integrations in production"></a>
+<a href="https://amanjhacodes55.github.io/#work"><img src="assets/card4.svg" width="49%" alt="Session replay from scratch"></a>
 
-<sub>This code runs in production and belongs to my employer, so it's private. The full write-up is at <a href="https://amanjha7.github.io">amanjha7.github.io</a>.</sub>
+<sub>This code runs in production and belongs to my employer, so it's private. The full write-up is at <a href="https://amanjhacodes55.github.io">amanjhacodes55.github.io</a>.</sub>
 
 <br><br>
 
@@ -31,9 +31,9 @@
 
 | Open source | |
 |---|---|
-| [**devpulse-ai**](https://github.com/amanjha7/devpulse-ai) | A GitHub bot that reviews PRs and runs OWASP Top 10 security checks |
-| [**pulse-engine**](https://github.com/amanjha7/pulse-engine) | A high-throughput webhook delivery engine with retries |
-| [**amanjha7.github.io**](https://github.com/amanjha7/amanjha7.github.io) | My portfolio, with a terminal you can type in. Try `sudo hire aman` |
+| [**devpulse-ai**](https://github.com/amanjhacodes55/devpulse-ai) | A GitHub bot that reviews PRs and runs OWASP Top 10 security checks |
+| [**pulse-engine**](https://github.com/amanjhacodes55/pulse-engine) | A high-throughput webhook delivery engine with retries |
+| [**amanjhacodes55.github.io**](https://github.com/amanjhacodes55/amanjhacodes55.github.io) | My portfolio, with a terminal you can type in. Try `sudo hire aman` |
 
 <br>
 
