@@ -1,23 +1,43 @@
-<a href="https://amanjha7.github.io"><img src="https://amanjha7.github.io/assets/og.png" alt="Aman Jha: I write the code that connects CRMs, phones and AI" width="100%"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Aman Jha. Full stack engineer who makes CRMs call, sync and close. 3,713 commits, 45+ integrations, 5 CRMs, 75+ repos.">
+</picture>
 
-### Hi, I'm Aman 👋
+<p align="center">
+  <a href="https://amanjha7.github.io"><img src="https://img.shields.io/badge/Portfolio-amanjha7.github.io-3fb950?style=for-the-badge&labelColor=161b22" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/aman-jha-07334a254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&labelColor=161b22" alt="LinkedIn"></a>
+  <a href="https://amanjha7.github.io/assets/Aman_Jha_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-f0f6fc?style=for-the-badge&labelColor=161b22" alt="Resume"></a>
+  <a href="mailto:amanjhavdjs12tha@gmail.com"><img src="https://img.shields.io/badge/Hire_me-Email-f78166?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"></a>
+</p>
 
-I'm a full stack engineer (MTS-1) at **Profunnel Technologies**. I work on **Pronnel**, a CRM, and **Convarza**, an AI calling product. Most of that code is private, so this profile only shows part of what I do. Here's a summary:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg">
+  <img src="assets/heatmap-light.svg" width="100%" alt="Commit heatmap: 3,713 commits from Nov 2024 to Oct 2026">
+</picture>
 
-- 📞 **A SIP / WebRTC dialer inside other CRMs:** HubSpot, Salesforce (LWC + Open CTI), Pipedrive, Zoho and Freshworks, each through its own SDK.
-- 🔐 **One OAuth backend for every CRM:** per-CRM credentials, token refresh that is safe to run concurrently, and retry on 401/403.
-- 🔌 **45+ integration microservices** in Node.js: Meta Lead Ads, LinkedIn Ads, Google Ads, Stripe, Razorpay, PayPal, DocuSign, Zoom, WhatsApp, GitHub/GitLab and more.
-- 📊 **A web tracker with rrweb session replay**, plus heatmaps, funnels and UTM attribution that send visitors into the CRM as leads.
-- 🧩 **The Angular CRM app itself:** 800+ commits on roles and permissions, billing, automations and filters.
+## What I've built
 
-**3,713 commits across 75+ repos at work since Nov 2024.** The full breakdown, with a commit heatmap, is on **[amanjha7.github.io](https://amanjha7.github.io)**.
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card1-dark.svg"><img src="assets/card1-light.svg" width="49%" alt="A dialer inside 5 CRMs"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card2-dark.svg"><img src="assets/card2-light.svg" width="49%" alt="45+ integrations"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card3-dark.svg"><img src="assets/card3-light.svg" width="49%" alt="One OAuth backend"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card4-dark.svg"><img src="assets/card4-light.svg" width="49%" alt="Session replay engine"></picture>
+</p>
 
-#### Stack
-`Node.js` `TypeScript` `Angular` `Express` `MongoDB` `PostgreSQL` `Redis` `BullMQ` `WebSockets` `SIP.js` `WebRTC` `OAuth 2.0` `Docker` `GitLab CI` `GitHub Actions` `AWS` `Salesforce LWC` `React` `Next.js`
+> The production code is private because it belongs to my employer. The full write-up is on **[amanjha7.github.io](https://amanjha7.github.io)**.
 
-#### Open source
-- [**devpulse-ai**](https://github.com/amanjha7/devpulse-ai): a GitHub bot that reviews pull requests and runs security checks against the OWASP Top 10
-- [**pulse-engine**](https://github.com/amanjha7/pulse-engine): a high-throughput webhook delivery engine with retries
+## Stack
 
-#### Contact
-[Portfolio](https://amanjha7.github.io) · [LinkedIn](https://www.linkedin.com/in/aman-jha-07334a254/) · [Resume](https://amanjha7.github.io/assets/Aman_Jha_Resume.pdf) · amanjhavdjs12tha@gmail.com
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,angular,react,nextjs,express,mongodb,postgres,redis,docker,aws,githubactions,gitlab,linux&perline=15" alt="Node.js, TypeScript, JavaScript, Angular, React, Next.js, Express, MongoDB, PostgreSQL, Redis, Docker, AWS, GitHub Actions, GitLab, Linux">
+</p>
+
+`SIP.js` · `WebRTC` · `OAuth 2.0` · `BullMQ` · `WebSockets` · `Salesforce LWC + Apex` · `HubSpot / Pipedrive / Zoho SDKs` · `rrweb`
+
+## Open source
+
+| Project | What it does |
+|---|---|
+| [**devpulse-ai**](https://github.com/amanjha7/devpulse-ai) | A GitHub bot that reviews PRs and runs OWASP Top 10 security checks |
+| [**pulse-engine**](https://github.com/amanjha7/pulse-engine) | A high-throughput webhook delivery engine with retries |
+| [**amanjha7.github.io**](https://github.com/amanjha7/amanjha7.github.io) | My portfolio, plain HTML deployed with GitHub Actions |
