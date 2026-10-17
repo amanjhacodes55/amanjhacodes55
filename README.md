@@ -31,6 +31,7 @@
 
 | Open source | |
 |---|---|
+| <img src="assets/codecrack-logo.svg" width="16"> [**codecrack**](https://github.com/amanjhacodes55/codecrack) | A HackerRank-style coding judge: Docker-sandboxed code execution, a step-through debugger, 71 verified problems, mock tests and discussions (Next.js, MongoDB, Python) |
 | [**devpulse-ai**](https://github.com/amanjhacodes55/devpulse-ai) | A GitHub bot that reviews PRs and runs OWASP Top 10 security checks |
 | [**pulse-engine**](https://github.com/amanjhacodes55/pulse-engine) | A high-throughput webhook delivery engine with retries |
 | [**amanjhacodes55.github.io**](https://github.com/amanjhacodes55/amanjhacodes55.github.io) | My portfolio, with a terminal you can type in. Try `sudo hire aman` |
