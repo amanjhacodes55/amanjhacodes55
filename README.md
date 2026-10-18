@@ -33,6 +33,7 @@
 |---|---|
 | <img src="assets/codecrack-logo.svg" width="16"> [**codecrack**](https://github.com/amanjhacodes55/codecrack) · [**live demo ↗**](https://codecrack-6okk.onrender.com) | A HackerRank-style coding judge: Docker-sandboxed code execution, a step-through debugger, 71 verified problems, mock tests and discussions (Next.js, MongoDB, Python) |
 | [**orbitcrm**](https://github.com/amanjhacodes55/orbitcrm) · [**live demo ↗**](https://orbitcrm-6cm4.onrender.com) | An open-source, monday-style CRM: boards (table/kanban/calendar), automations and webhooks, an omnichannel inbox, a dialer and an app marketplace (Next.js, TypeScript, MongoDB) |
+| [**tabby**](https://github.com/amanjhacodes55/tabby) · [**live demo ↗**](https://tabby.amanjhavdjs12tha.workers.dev) | A free, no-signup Splitwise alternative: four split modes, fewest-payments settle-up and one-tap UPI payments (Next.js, Cloudflare Workers, D1) |
 | [**devpulse-ai**](https://github.com/amanjhacodes55/devpulse-ai) | A GitHub bot that reviews PRs and runs OWASP Top 10 security checks |
 | [**pulse-engine**](https://github.com/amanjhacodes55/pulse-engine) | A high-throughput webhook delivery engine with retries |
 | [**amanjhacodes55.github.io**](https://github.com/amanjhacodes55/amanjhacodes55.github.io) | My portfolio, with a terminal you can type in. Try `sudo hire aman` |
